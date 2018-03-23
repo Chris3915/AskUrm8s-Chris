@@ -11,7 +11,7 @@ import java.awt.event.MouseWheelListener;
 import javax.swing.border.Border;
 import javax.swing.*;
 
-
+ //Christian Q11
 public class loginGUI extends JFrame{
 
     private JLabel fehlerDetails;
